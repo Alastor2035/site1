@@ -1,0 +1,153 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.div1{
+    height: 100vh;
+    background-image: url(https://img4.goodfon.ru/wallpaper/nbig/d/14/hail-hydra-skull-tentacles-metall-pink-fon-marvel-comics.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #ffffff; 
+    text-align: center;
+}
+.div2{
+    height: 100vh;
+    background-color: #111111d5;
+}
+.div3{
+    text-align: center;
+    font-size: 90px;
+    color: #ffffff; 
+    margin-top: 10px;
+}
+.div4{
+    height: 1px;
+}
+.mine{
+    margin: auto;
+    border: none;
+}
+.b1{
+    width: 180px;
+    height: 50px;
+    background-color: #f0650d;
+    border: none;
+    margin-top: 50px;
+    color: #ffffff; 
+    float: left;
+
+}
+.div5{
+    text-align: center;
+    font-size: 40px;
+    color: #ffffff; 
+    margin-top: 270px;
+}
+.b2{
+    width: 180px;
+    height: 50px;
+    float: left;
+    background-color: #44aa99;
+    border: none;
+    margin-top: 50px;
+    color: #ffffff; 
+    margin-left: 580px;
+    margin-right: 50px;
+}
+.b2:hover{
+cursor: pointer;
+}
+.b1:hover{
+cursor: pointer;
+}
+.headed{
+    position: fixed;
+    height: 7vh;
+    width: 100%;
+    background-color: #bbbbbb;
+}
+.vk{
+    float: left;
+    width: 5%;
+    height: 7vh;
+    background-image: url(https://logosklad.ru/photo/logos/365/1485500647.jpg);
+}
+.div0{
+    height: 7vh;
+    width: 95%;
+    float: left;
+}
+.b3{
+    float: right;
+    width: 6%;
+    height: 7vh;
+    background-color: #999999;
+    color: #ffffff; 
+    margin-right: 3%;
+    border: none;
+    font-size: 70%;
+}
+.b3:hover{
+cursor: pointer;
+}
+
+h2{
+    margin: auto;
+    font-size: 400%;
+    padding-top: 20vh;
+}
+.text{
+    float:left;
+    font-size: 250%;
+    margin-top: 30vh;
+}
+.div6{
+    float:left;
+    height: 100vh;
+    width: 50%;
+    text-align: center;
+    background-color: #59a6f4;
+}
+.div7{
+    float:left;
+    height: 100vh;
+    width: 50%;
+    text-align: center;
+    background-color: #a74927;
+}
+.comics{
+    width: 180px;
+    height: 180px;
+    float: left;
+    background-color: #777777;
+    border: none;
+    margin-top: 50px;
+    color: #ffffff; 
+    margin-left: 15%;
+    
+}
+.comics:hover{
+cursor: pointer;
+}
+.text1{
+    float:left;
+    font-size: 220%;
+    margin-top: 50vh;
+    text-align: center;
+    color: #ffffff; 
+    margin: auto;
+    margin-left: 35%;
+}
+.div11{
+    height: 100vh;
+    background-image: url(https://img4.goodfon.ru/wallpaper/nbig/d/14/hail-hydra-skull-tentacles-metall-pink-fon-marvel-comics.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #ffffff; 
+    text-align: center;
+}
+.div12{
+    height: 100vh;
+    background-color: #111111d5;
+}
